@@ -1,4 +1,4 @@
 # sample-repo2025
 更新
 ローカルリポで変更　　
-GitHub上で更新（2回目）
+conflict-remote上で更新（コンフリクト発生！）
