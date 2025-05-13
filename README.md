@@ -1,4 +1,4 @@
 # sample-repo2025
 更新
 ローカルリポで変更　　
-conflict-remote上で更新（コンフリクト発生！）
+rebase-practiceブランチで更新（rebase用）
